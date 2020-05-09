@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Millennium Falcon</title>
+    <link rel="shortcut icon" href="img/fav.png" type="image/png">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<div id="all">
+<div id="background">
+    <canvas id="canvas" width="800" height="400"></canvas>
+    <img id="begin" src="img/begin4.png">
+    <img id="reload" src="img/return.png">
+    <table id="text">
+        <tr><td><input id="play" type='button' value='Play game' onclick='startall()'></td></tr>
+        <tr><td><input id="rule" type='button' value='Rules' onclick='rule()'></td></tr>
+        <tr><td><input id="record" type='button' value='Records' onclick='record()'></td></tr>
+        <tr><td><input id="dev" type='button' value='Written by' onclick='rights()'></td></tr>
+    </table>
+    <div id="tableHighscores">
+    <div id="hi"></div>
+    <input id="return" type='button' value='&#8592; main menu' onclick='ret()'>
+</div>
+   <div id="userName">
+        <span id="name"></span>
+    </div>
+    <span id='result'>Your result</span>
+
+    <div id="inputName">
+        <label for="gameName">Your name: </label>
+        <input type="text" id="gameName">
+        <svg id="acceptName" width='50' height='50'>
+            <line x1=6 y1=10 x2=25 y2=37 stroke='#fff' stroke-width='5'/>
+            <line x1=23 y1=36 x2=42 y2=18 stroke='#fff' stroke-width='5'/>
+        </svg>
+    </div>
+    <script src="js/script1.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</div>
+</div>
+</body>
+</html>

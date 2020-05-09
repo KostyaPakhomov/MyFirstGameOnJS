@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f8780d-f3a6-45fa-896a-c52db65fd054" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1VpoGXq5QhpgQCiHWSuZaP41L0p" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Программирование\Game\Game1\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Программирование\Game\Game1\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f8780d-f3a6-45fa-896a-c52db65fd054" name="Default Changelist" comment="" />
+      <created>1577959301544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577959301544</updated>
+      <workItem from="1577959303542" duration="6948000" />
+      <workItem from="1578236932590" duration="6100000" />
+      <workItem from="1578394082072" duration="9326000" />
+      <workItem from="1578419544032" duration="10271000" />
+      <workItem from="1578589019942" duration="12846000" />
+      <workItem from="1578665528197" duration="6456000" />
+      <workItem from="1578818841636" duration="19417000" />
+      <workItem from="1578860476470" duration="3716000" />
+      <workItem from="1578933750963" duration="10101000" />
+      <workItem from="1579005103571" duration="2628000" />
+      <workItem from="1579103601717" duration="15365000" />
+      <workItem from="1579188469684" duration="18592000" />
+      <workItem from="1579238994475" duration="15713000" />
+      <workItem from="1579264108472" duration="1126000" />
+      <workItem from="1579274406397" duration="15976000" />
+      <workItem from="1579334025647" duration="11712000" />
+      <workItem from="1579359115064" duration="11535000" />
+      <workItem from="1579421719366" duration="8739000" />
+      <workItem from="1579446258403" duration="6177000" />
+      <workItem from="1579458237736" duration="17447000" />
+      <workItem from="1579519205301" duration="6381000" />
+      <workItem from="1579537794515" duration="12766000" />
+      <workItem from="1579603466738" duration="5619000" />
+      <workItem from="1579638446229" duration="5534000" />
+      <workItem from="1585996320180" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
